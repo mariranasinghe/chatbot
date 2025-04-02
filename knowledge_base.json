@@ -1,0 +1,40 @@
+{
+  "questions": [
+    {
+      "question": "Hello",
+      "answer": "Hello, how can I help you?"
+    },
+    {
+      "question": "Hey",
+      "answer": "Hello, can I be of any assistance?"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello, how can I help you?"
+    },
+    {
+      "question": "What majors does Algoma University offer?",
+      "answer": "Algoma University offers a variety of majors across its faculties. Here are some examples: Faculty of Cross-Cultural Studies: Community, Economic and Social Development; Geography, Geology and Land Stewardship; Sociology, Faculty of Humanities and Social Sciences: English and History; Law and Politics; Modern Languages; Music and Visual Art; Social Work, Faculty of Business and Economics: Applied Business and Executive Education; Business Administration; Finance, Economics and Decision Sciences, Faculty of Science: Biology; Psychology; Computer Science and Technology, Let me know if you'd like more details about any specific program!"
+    },
+    {
+      "question": "How do I register for courses at Algoma University?",
+      "answer": "Here is the link to register for courses and view the available schedules: https://algomau.ca/course-schedules/"
+    },
+    {
+      "question": "What academic advising services are available at Algoma University?",
+      "answer": "Algoma University offers a range of academic advising services to support students throughout their academic journey. These services include personalized guidance on course selection, program planning, and understanding degree requirements. Advisors can also assist with strategies for academic success and provide referrals to additional resources if needed. For more information, you can visit the following link: https://algomau.ca/students/student-success/the-learning-centre/academic-assistance/. Let me know if there's anything specific you'd like help with!"
+    },
+    {
+      "question": "Can I pursue a double major or minor at Algoma University?",
+      "answer": "Yes, at Algoma University, students have the option to pursue a double major or add a minor to their degree program. This allows students to broaden their academic experience and specialize in multiple areas of interest. For detailed guidance on how to structure your program and meet the requirements for a double major or minor, you can visit the following link: https://algomau.ca/academics/home-of-the-registrar/program-requirements/majors-minors-certificates-coop/. Let me know if you'd like further assistance!"
+    },
+    {
+      "question": "What are the prerequisites for the Psychology program at Algoma University?",
+      "answer": "The prerequisites for the Psychology program at Algoma University typically include a high school diploma with courses in English and Mathematics. Specific requirements may vary, so it is recommended to consult the program details or contact the admissions office for accurate information. You can find more details about program requirements here: https://algomau.ca/academics/programs/. Let me know if there's anything else I can assist you with!"
+    },
+    {
+      "question": "Im bored",
+      "answer": "Hey there! University life can feel that way sometimes. Is there anything about your Algoma academics you'd like to explore? Maybe we can find something interesting related to your courses. Sometimes diving into a subject can help shake off boredom! Let me know what's on your academic mind."
+    }
+  ]
+}
